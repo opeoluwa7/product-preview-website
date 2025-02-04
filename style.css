@@ -98,6 +98,10 @@ p{
     font-weight: 500;
 }
 @media screen and (min-width: 600px) {
+    body{
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
     #mobile-img{
         display: none;
 
@@ -111,3 +115,4 @@ p{
         flex-direction: row;
     }
 }
+
